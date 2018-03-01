@@ -1,0 +1,11 @@
+
+Combination of Output Is:
+
+moq
+mof
+mpq
+mqr
+noq
+nor
+npq
+npr
